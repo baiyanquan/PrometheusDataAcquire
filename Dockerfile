@@ -10,8 +10,8 @@ RUN git clone https://gitee.com/baiyanquan/PrometheusDataAcquire.git /root/Prome
     && pip install flask_cors -i https://pypi.tuna.tsinghua.edu.cn/simple\
     && pip install pandas -i https://pypi.tuna.tsinghua.edu.cn/simple\
     && pip install matplotlib -i https://pypi.tuna.tsinghua.edu.cn/simple\
-    && mkdir data\
-    && cd data\
+    && mkdir /root/data\
+    && cd /root/data\
     && git config --global user.name "baiyanquan"\
     && git config --global user.password "hyq19980329"\
     && git config user.email '405579949@qq.com'\
