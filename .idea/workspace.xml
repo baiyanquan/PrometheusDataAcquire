@@ -20,10 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be3ad108-f67e-4d8a-b031-ceece707fc71" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/SockShopDataset - 副本.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SockShopDataset - 副本.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SockPerformancePicker.py" beforeDir="false" afterPath="$PROJECT_DIR$/SockPerformancePicker.py" afterDir="false" />
     </list>
@@ -36,6 +33,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1eZ7yWMdrNpB1eH2TWPwtofxJCP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -91,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1575525076816</updated>
       <workItem from="1594517518491" duration="3848000" />
-      <workItem from="1594521887078" duration="6551000" />
+      <workItem from="1594521887078" duration="8549000" />
     </task>
     <servers />
   </component>
@@ -123,38 +121,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="222" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594521861470" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1594538415829">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1594541286466">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594538415829" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1594538415829">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594541286466" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1594541286466">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594538415829" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1594538415829">
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594541286466" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1594541286466">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594538415829" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1594538415829">
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594541286466" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1594541286466">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594538415829" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1594534479235">
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594541286466" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1594541288074">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594534479235" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1594534479235">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594541288074" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1594541288074">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594534479235" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1594534479235">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594541288074" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1594541288074">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594534479235" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1594534479235">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594541288074" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1594541288074">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594534479235" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594541288074" />
     <state x="210" y="114" key="SettingsEditor" timestamp="1594537912870">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -165,13 +163,23 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/SockPerformancePicker.py</url>
-          <line>27</line>
-          <option name="timeStamp" value="2" />
+          <line>45</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SockPerformancePicker.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SockPerformancePicker.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/XLab_PrometheusDataAcquire$SockPerformancePicker.coverage" NAME="SockPerformancePicker Coverage Results" MODIFIED="1594538405392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/XLab_PrometheusDataAcquire$SockPerformancePicker.coverage" NAME="SockPerformancePicker Coverage Results" MODIFIED="1594541233695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

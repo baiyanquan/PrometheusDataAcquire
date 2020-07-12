@@ -3,7 +3,6 @@ import datetime
 import os
 from flask import Flask, jsonify, request
 from flask_cors import CORS
-from git import Repo
 
 from utils.SockConfig import Config
 from utils.utils import Utils
@@ -34,7 +33,6 @@ def main():
                                                                               resolution=Config.PROMETHEUS_RESOLUTION,
                                                                               start_time=start_time,
                                                                               end_time=end_time)
-
     dirs = "data/" + curr_time.strftime("%Y-%m")
     if not os.path.exists(dirs):
         os.makedirs(dirs)
@@ -42,11 +40,6 @@ def main():
     PerformanceDataWriter.write2csv_merged(
         filename=target_file,
         metricsnameset=headers, datasets=csvsets)
-
-    repo = Repo(os.getcwd())
-    repo.index.add([target_file])
-    repo.index.commit("new data file: " + START_STR)
-    repo.remote().push()
 
 
 app = Flask(__name__)
