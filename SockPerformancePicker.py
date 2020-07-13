@@ -40,6 +40,7 @@ def main():
     PerformanceDataWriter.write2csv_merged(
         filename=target_file,
         metricsnameset=headers, datasets=csvsets)
+    return "success"
 
 
 app = Flask(__name__)
@@ -48,13 +49,8 @@ app = Flask(__name__)
 @app.route('/api/v1.0/acquire-data', methods=['GET'])
 def acquire_data():
     result = {}
-    try:
-        main()
-        result["message"] = "success"
-        return jsonify(result)
-    except Exception:
-        result["message"] = "failure"
-        return jsonify(result)
+    result["message"] = main()
+    return jsonify(result)
 
 
 app.route('/api/v1.0/')
